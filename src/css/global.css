@@ -1,0 +1,13 @@
+body{
+  font-family: 'Poiret One', cursive;
+  background-color: #a9a9a9;
+  background-image: url(../img/BG\ Dark.jpg);
+}
+
+main {
+  min-width: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}

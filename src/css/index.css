@@ -1,0 +1,157 @@
+.cabecalho {
+  background-color: brown;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 30px;
+  margin-top: 50px;
+}
+.page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.left img {
+  max-width: 100%;
+  max-height: 50%;
+}
+.left {
+  margin: 30px;
+  width: 300px;
+  height: 430px;
+}
+.left .imgup {
+  margin-top: 30px;
+}
+.left .imgdown{
+  margin-top: 50px;
+}
+.right img {
+  max-width: 80%;
+  max-height: 50%;
+}
+.right {
+  margin: 30px;
+  width: 300px;
+  height: 430px;
+}
+.right .imgup {
+  margin-top: 30px;
+}
+.right .imgdown{
+  margin-top: 50px;
+}
+.center {
+  background-color: rgba(138, 43, 226, .3);
+  width: 700px;
+  height: 400px;
+  margin-top: 50px;
+  border-radius: 20px;
+}
+.nav1 img {
+  max-width: 50%;
+}
+ul.nav1 {
+  margin: 10px;
+  display: flex;
+  height: 185px;
+}
+ul.nav1 li {
+  background-color: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid;
+  margin: 10px;
+  border-radius: 15px; 
+  text-align: center;
+}
+ul.nav1 a{
+  text-decoration: none;
+  color: black;
+}
+ul.nav1 img{
+  margin-top: 10px;
+}
+ul.nav1 h3{
+  margin-top: 5px; 
+}
+.nav2 img {
+  max-width: 50%;
+}
+ul.nav2 {
+  margin: 10px;
+  display: flex;
+  height: 185px;
+}
+ul.nav2 li {
+  background-color: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid;
+  margin: 10px;
+  border-radius: 15px; 
+  text-align: center;
+}
+ul.nav2 a{
+  text-decoration: none;
+  color: black;
+}
+ul.nav2 img{
+  margin-top: 10px;
+}
+ul.nav2 h3{
+  margin-top: 5px;
+}
+.social{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  margin-top: -475px;
+}
+.social a{
+  text-decoration: none;
+}
+.whatsapp img{
+  max-height: 100%;
+  float: right;
+}
+.instagram img{
+  max-height: 100%;
+}
+.social .whatsapp {
+  background-color: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 40px;
+  width: 170px;
+  margin: 10px;
+  color: black;
+  border: 3px solid;
+  border-radius: 20px;
+  padding-left: 10px;
+  font-size: 18px;
+}
+.social .instagram{  
+  background-color: chocolate;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 40px;
+  width: 170px;
+  margin: 10px;
+  color: black;
+  border: 3px solid;
+  border-radius: 20px;
+  padding-right: 10px;
+  font-size: 18px;
+}
+
+
+
+
+
